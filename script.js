@@ -5,7 +5,7 @@
       let messaggio = document.getElementById("messaggio");
 
 
-      // Reset bordo
+     
       inputNome.style.border = "2px solid black";
 
 

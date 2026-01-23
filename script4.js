@@ -10,7 +10,7 @@
         let li = document.createElement("li");
         li.textContent = numero + " x " + i + " = " + (numero * i);
 
-        // effetto zebra
+      
         if (i % 2 == 0) {
           li.style.backgroundColor = "#f0f0f0";
         }
